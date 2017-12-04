@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "ace-builds": "^1.2.9",
+    "jquery": "latest",
+    "bootstrap": "latest"
+  },
+  "directories": {
+    "ace-builds": "src/main/resources/static/bower_components/ace-builds",
+    "jquery": "src/main/resources/static/bower_components/jquery",
+    "bootstrap": "src/main/resources/static/bower_components/bootstrap"
+  }
+}
